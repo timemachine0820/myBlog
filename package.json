@@ -27,6 +27,7 @@
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "@vuepress/plugin-last-updated": "^1.8.2",
     "moment": "^2.29.1",
+    "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-plugin-meting": "^0.3.1",
     "vuepress-plugin-reading-progress": "^1.0.10",
     "vuepress-theme-reco": "^1.6.6"
