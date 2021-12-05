@@ -120,7 +120,7 @@ module.exports = {
         // 播放顺序为随机
         order: 'random',
         // 初始音量
-        volume: 0.3,
+        volume: 0.1,
         // 关闭歌词显示
         lrcType: 0
       },
