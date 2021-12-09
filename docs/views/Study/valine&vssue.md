@@ -7,7 +7,6 @@ tags:
   - Blog
   - Valine
   - Vssue
-sticky: 2
 ---
 
 :::tip
